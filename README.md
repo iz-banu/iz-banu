@@ -2,26 +2,30 @@
 
 ### 🚀 AI Enthusiast | UX/UI Designer | Front-End Developer | Graphic Designer | WordPress Developer
 
-With 14+ years of professional experience in digital design and web development, I specialize in creating visually appealing, user-friendly, and high-performing digital products.
+With 14+ years of professional experience in digital design, eCommerce branding, and web development, I specialize in creating visually engaging, user-centered, and business-focused digital solutions.
 
-Currently, I am expanding my expertise in Artificial Intelligence, Data Analytics, AI Automation, and modern web technologies to build smarter and more impactful digital solutions.
+My expertise spans UX/UI Design, Front-End Development, WordPress Development, Amazon Creative Services, AI-powered workflows, and digital content creation. I am passionate about combining design, technology, and Artificial Intelligence to build innovative digital experiences.
 
 ## 💼 Professional Expertise
 
 * 🎨 UX/UI Design
 * 🌐 Front-End Development
-* 🖌️ Graphic Design
 * 🔧 WordPress Development
-* 🤖 AI Tools & Automation
-* 📊 Data Analytics & Visualization
+* 🖌️ Graphic Design & Branding
+* 🛒 Amazon Listing Images
+* 📦 Amazon A+ Content (EBC)
+* 📖 User Manuals & Product Documentation
+* 🏷️ Product Labels & Packaging Design
+* 📊 Product Sell Sheets & Marketing Collateral
+* 🎬 Video Editing & Motion Graphics
 * 📱 Responsive Web Design
 * 📈 Dashboard & Web Application Design
-* 🎯 Branding & Visual Identity
+* 🤖 AI Tools & Automation
 * 📷 Social Media Creative Design
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-### Design
+### Design & Creative
 
 * Figma
 * Adobe Photoshop
@@ -29,7 +33,7 @@ Currently, I am expanding my expertise in Artificial Intelligence, Data Analytic
 * Adobe XD
 * Canva
 
-### Front-End
+### Front-End Development
 
 * HTML5
 * CSS3
@@ -47,28 +51,38 @@ Currently, I am expanding my expertise in Artificial Intelligence, Data Analytic
 * Node.js
 * NestJS
 
-### AI & Data
+### AI & Productivity Tools
 
-* Prompt Engineering
-* AI Tools & Automation
 * ChatGPT
-* Data Analytics
-* Microsoft Excel
-* Power BI (Learning)
-* Machine Learning Fundamentals
+* Claude AI
+* AI Prompt Engineering
+* AI Content Creation
+* AI-Assisted Design Workflows
+* AI Automation Tools
+
+### eCommerce & Amazon Creative Services
+
+* Amazon Listing Images
+* Amazon A+ Content (EBC)
+* Product Infographics
+* Product Labels
+* Packaging Design
+* User Manuals
+* Sell Sheets
+* Product Marketing Assets
 
 ## 🌱 Currently Learning
 
 * Artificial Intelligence
 * Machine Learning
-* Data Science
+* Data Science & Analytics
 * Advanced React.js
 * Node.js & NestJS
 * AI-Powered Product Development
 
 ## 🎯 Mission
 
-To combine 14+ years of design and development expertise with Artificial Intelligence to create innovative, intelligent, and user-centered digital experiences.
+To leverage 14+ years of expertise in Design, Development, eCommerce Creative Services, and Artificial Intelligence to create innovative, scalable, and user-focused digital products that drive real business impact.
 
 ## 📫 Connect With Me
 
@@ -78,4 +92,4 @@ To combine 14+ years of design and development expertise with Artificial Intelli
 
 ## ⚡ Fun Fact
 
-I believe the future belongs to professionals who can bridge Design, Development, and Artificial Intelligence to build meaningful digital products.
+I enjoy transforming complex ideas into beautiful user experiences, high-converting Amazon creatives, and AI-powered digital solutions.
