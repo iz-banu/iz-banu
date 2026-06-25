@@ -86,9 +86,7 @@ To leverage 14+ years of expertise in Design, Development, eCommerce Creative Se
 
 ## 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn URL
-* Portfolio: Your Portfolio URL
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: jansbanu@izaaptech.in
 
 ## ⚡ Fun Fact
 
