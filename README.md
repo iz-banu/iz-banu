@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jans Faheem
+# Hi 👋, I'm Jans Banu
 
 ### 🚀 AI Enthusiast | UX/UI Designer | Front-End Developer | Graphic Designer | WordPress Developer
 
